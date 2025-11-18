@@ -7,11 +7,11 @@ source code for a heavily vibe coded scrim bot for your shell shockers discord s
 - your brain
 - some kind of terminal/server
 - python 3 installed
-- your discord bot's token & permissions (bot, add using oauth2, admin, etc.)
+- your discord bot's token
 - some kind of coding knowledge
 
 ## setup
-1. your bot in a discord server (using sufficent permissions)
+1. maake sure your bot is in a discord server (with sufficent permissions)
 2. install the required files from `requirements.txt`
 3. the **required** json files, their contents should be empty "{}"
 4. putting your bots token in the .env file, the one in the example will **not** work.
