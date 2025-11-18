@@ -1,3 +1,19 @@
 # scrim-bot-deobf
 source code for a heavily vibe coded scrim bot for your shell shockers discord server (no guarantees it functions correctly.) &lt;3
-- ⚠ this is in **python** 🤮
+- ⚠ this is in **p*thon**, you may port it to js if you like
+
+# setup & requirements
+## requirements:
+- your brain
+- some kind of terminal/server
+- python 3 installed
+- your discord bot's token & permissions (bot, add using oauth2, admin, etc.)
+- some kind of coding knowledge
+
+## setup
+1. your bot in a discord server (using sufficent permissions)
+2. install the required files from `requirements.txt`
+3. the **required** json files, their contents should be empty "{}"
+4. putting your bots token in the .env file, the one in the example will **not** work.
+5. run the main.py & you should be good to go!
+6. experiment & modify to your liking.
