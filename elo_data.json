@@ -1,0 +1,4 @@
+{
+  "comment" : "delete this & _comment from the file, it should only just be {}",
+  "comment": "this json file contains user data from your stored elo. the format present should be '{userid}': (elo amount). this comment is automatically overwritten when you first run the bot. if it isn't then delete this",
+}
